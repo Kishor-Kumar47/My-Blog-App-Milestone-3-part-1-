@@ -21,15 +21,15 @@ const page = () => {
               About Us
             </h1>
             <p className="mb-8 leading-relaxed">
-              Welcome to Mr Bheel ! coding channel Dive into the world of coding
+              Welcome to Mr Bheel coding channel Dive into the world of coding
               with tutorials tips and tricks designed for both beginners and
-              advanced developers. Whether you're just starting with your first
-              "Hello World!" or looking to master the latest frameworks and
+              advanced developers. Whether you are just starting with your first
+              Hello World or looking to master the latest frameworks and
               technologies this channel has something for everyone. From
               in-depth programming tutorials to quick coding hacks and
-              project-based learning I'm here to help you elevate your coding
+              project-based learning I am here to help you elevate your coding
               skills and stay ahead in the tech world. Join our community of
-              coders and let's build something amazing together!
+              coders and lets build something amazing together.
             </p>
             <div className="flex w-full md:justify-start justify-center items-end">
               <div className="relative mr-4 lg:w-full xl:w-1/2 w-2/4">
